@@ -21,11 +21,12 @@
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
-	border-bottom: 1px solid #fff;	
+	border-bottom: 1px solid #fff;
+	font-size: 1em;	
 }
 
 /* Changes header color */
-
+/* H1 is the Header */
 #printfriendly h1 {
 	color: red;
 	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
@@ -36,6 +37,7 @@
 	border: 0px; !important
 }
 
+/* Subtitles */
  #printfriendly h2 { 
 	color: black;
 	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
