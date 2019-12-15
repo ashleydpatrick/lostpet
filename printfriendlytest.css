@@ -66,7 +66,9 @@
 }
 
 
-#printfriendly #pf-src { display:none; }
+#printfriendly #pf-src { display:none; 
+	border: 0px;
+}
 
 
 #pf-body .pf-caption,
