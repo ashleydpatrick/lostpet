@@ -4,57 +4,57 @@
 /* This will align images to the left */
 
 #printfriendly img{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 12px;
+	display: block; !important
+	margin-left: auto; !important
+	margin-right: auto; !important
+	margin-top: 12px; !important
 }
 
 /* Changes font family and size */
 
 #printfriendly {
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	color: black;
-	text-decoration: none;
-	text-align: center;
+	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
+	color: black; !important
+	text-decoration: none; !important
+	text-align: center; !important
 }
 
 /* Changes header color */
 
 #printfriendly h1 {
-	color: red;
-	text-decoration: none;
-	text-align: center;
+	color: red; !important
+	text-decoration: none; !important
+	text-align: center; !important
 }
 
  #printfriendly h2 { 
-	color: red;
-	text-align: center;
-	text-decoration: none;
+	color: red; !important
+	text-align: center; !important
+	text-decoration: none; !important
 }
 
 #printfriendly h3 { 
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	color: black;
-	text-align: center;
-	text-decoration: none;
+	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
+	color: black; !important
+	text-align: center; !important
+	text-decoration: none; !important
 }
 
 #printfriendly h4 {
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	color: red;
-	text-align: center;
-	text-decoration: none;
+	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
+	color: red; !important
+	text-align: center; !important
+	text-decoration: none; !important
 }
 
 .printfriendly {
-	display: block;
-	color: black;
-	text-decoration: none;
-	text-align: center;
+	display: block; !important
+	color: black; !important
+	text-decoration: none; !important
+	text-align: center; !important
 }
 
 hr {
-	border-style: none;
-	border: 0px;
+	border-style: none; !important
+	border: 0px; !important
 }
