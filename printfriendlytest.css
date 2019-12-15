@@ -20,6 +20,7 @@
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
+	border-bottom: 1px solid #fff;	
 }
 
 /* Changes header color */
@@ -29,6 +30,7 @@
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
+	border-bottom: 1px solid #fff;	
 }
 
  #printfriendly h2 { 
@@ -36,6 +38,7 @@
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
+	border-bottom: 1px solid #fff;	
 }
 
 #printfriendly h3 { 
@@ -44,6 +47,7 @@
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
+	border-bottom: 1px solid #fff;	
 }
 
 #printfriendly h4 {
@@ -52,6 +56,7 @@
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
+	border-bottom: 1px solid #fff;	
 }
 
 hr {
