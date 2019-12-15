@@ -15,7 +15,7 @@
 
 #printfriendly {
 	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	color: black;
+	color: red;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
@@ -24,7 +24,7 @@
 /* Changes header color */
 
 #printfriendly h1 {
-	color: red;
+	color: black;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
@@ -39,7 +39,7 @@
 
 #printfriendly h3 { 
 	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	color: black;
+	color: red;
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
@@ -55,10 +55,10 @@
 
 .printfriendly {
 	display: block;
-	color: black;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
+	color: red;
 }
 
 hr {
