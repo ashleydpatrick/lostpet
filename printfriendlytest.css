@@ -73,9 +73,17 @@ hr {
   }
 
   #printfriendly #pf-body #pf-title tr {
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #fff;
 	}
 
 #printfriendly #pf-title tr {
-	border-bottom: 1px solid #ddd;
+	border-bottom: 1px solid #fff;
+}
+
+tr {
+	border-bottom: 1px solid #fff;
+}
+
+#printfriendly tr {
+	border-bottom: 1px solid #fff;	
 }
