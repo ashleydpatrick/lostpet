@@ -4,57 +4,63 @@
 /* This will align images to the left */
 
 #printfriendly img{
-	display: block; !important
-	margin-left: auto; !important
-	margin-right: auto; !important
-	margin-top: 12px; !important
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 12px;
 }
 
 /* Changes font family and size */
 
 #printfriendly {
-	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
-	color: black; !important
-	text-decoration: none; !important
-	text-align: center; !important
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
 }
 
 /* Changes header color */
 
 #printfriendly h1 {
-	color: red; !important
-	text-decoration: none; !important
-	text-align: center; !important
+	color: red;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
 }
 
  #printfriendly h2 { 
-	color: red; !important
-	text-align: center; !important
-	text-decoration: none; !important
+	color: red;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
 }
 
 #printfriendly h3 { 
-	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
-	color: black; !important
-	text-align: center; !important
-	text-decoration: none; !important
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
 }
 
 #printfriendly h4 {
-	font-family: Georgia, Times New Roman, 'droid serif', serif; !important
-	color: red; !important
-	text-align: center; !important
-	text-decoration: none; !important
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	color: red;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
 }
 
 .printfriendly {
-	display: block; !important
-	color: black; !important
-	text-decoration: none; !important
-	text-align: center; !important
+	display: block;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
 }
 
 hr {
-	border-style: none; !important
-	border: 0px; !important
+	border-style: none;
+	border: 0px;
 }
