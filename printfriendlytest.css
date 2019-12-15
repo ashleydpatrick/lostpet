@@ -50,6 +50,7 @@
 }
 
 #printfriendly h3 { 
+	color: black;
 	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	text-align: center;
 	text-decoration: underline;
@@ -59,6 +60,7 @@
 }
 
 #printfriendly h4 {
+	color: black;
 	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	text-align: center;
 	text-decoration: underline;
