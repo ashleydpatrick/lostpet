@@ -87,3 +87,7 @@ tr {
 #printfriendly tr {
 	border-bottom: 1px solid #fff;	
 }
+
+#pf-author, .pf-author {
+	display: none;
+}
