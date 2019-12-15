@@ -1,5 +1,6 @@
 /* -----  Examples ------ */
 
+@import url('https://fonts.googleapis.com/css?family=Kreon&display=swap');
 
 /* This will align images to the left */
 
@@ -15,7 +16,7 @@
 /* Changes font family and size */
 
 #printfriendly {
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	color: red;
 	text-decoration: none;
 	text-align: center;
@@ -27,6 +28,7 @@
 
 #printfriendly h1 {
 	color: red;
+	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
@@ -36,14 +38,15 @@
 
  #printfriendly h2 { 
 	color: black;
+	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	text-align: center;
-	text-decoration: none;
+	text-decoration: underline;
 	font-weight: bold;
 	border-bottom: 0px solid #fff;	
 }
 
 #printfriendly h3 { 
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	color: red;
 	text-align: center;
 	text-decoration: none;
@@ -52,7 +55,7 @@
 }
 
 #printfriendly h4 {
-	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	font-family: 'Kreon', Georgia, Times New Roman, 'droid serif', serif;
 	color: red;
 	text-align: center;
 	text-decoration: none;
