@@ -12,7 +12,7 @@
 /* Changes font family and size */
 
 #printfriendly {
-	font-family: 'droid serif', serif;
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
 	font-size: 14px;
 	color: darkgreen;
 }
