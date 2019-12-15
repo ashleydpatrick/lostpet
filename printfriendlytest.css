@@ -5,6 +5,7 @@
 
 #printfriendly img{
 	display: block;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 12px;
@@ -65,3 +66,18 @@ hr {
 	border-style: none;
 	border: 0px;
 }
+
+#pf-src{
+	display:none;
+	}
+
+@media print  {
+	body { -webkit-print-color-adjust: exact;}
+	 }
+
+	 #pf-body .pf-caption,
+#pf-body .wp-caption {
+    float:none ;
+    border:0px ;
+    text-align:center;
+  }
