@@ -24,14 +24,14 @@
 /* Changes header color */
 
 #printfriendly h1 {
-	color: black;
+	color: red;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
 }
 
  #printfriendly h2 { 
-	color: red;
+	color: black;
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
