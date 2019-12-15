@@ -59,9 +59,7 @@ hr {
 	border: 0px;
 }
 
-#pf-src{
-	display:none;
-	}
+#printfriendly #pf-src { display:none; }
 
 @media print  {
 	body { -webkit-print-color-adjust: exact;}
