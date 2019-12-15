@@ -46,7 +46,12 @@
 }
 
 .printfriendly {
+	display: block;
 	color: black;
-	text-align: center;
 	text-decoration: none;
+	text-align: center;
+}
+
+hr {
+
 }
