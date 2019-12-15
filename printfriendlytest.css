@@ -21,22 +21,32 @@
 
 #printfriendly h1 {
 	color: red;
+	text-decoration: none;
+	text-align: center;
 }
 
  #printfriendly h2 { 
 	color: red;
+	text-align: center;
+	text-decoration: none;
 }
 
 #printfriendly h3 { 
 	font-family: Georgia, Times New Roman, 'droid serif', serif;
 	color: black;
+	text-align: center;
+	text-decoration: none;
 }
 
 #printfriendly h4 {
 	font-family: Georgia, Times New Roman, 'droid serif', serif;
 	color: red;
+	text-align: center;
+	text-decoration: none;
 }
 
 .printfriendly {
 	color: black;
+	text-align: center;
+	text-decoration: none;
 }
