@@ -6,7 +6,7 @@
 
 #printfriendly img{
 	display: block;
-	width: 50%;
+	width: 40%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 12px;
@@ -22,7 +22,7 @@
 	text-align: center;
 	font-weight: bold;
 	border-bottom: 1px solid #fff;
-	font-size: 1.25em;	
+	font-size: 1.2em;	
 }
 
 /* Changes header color */
@@ -33,7 +33,7 @@
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
-	font-size: 1.75em;
+	font-size: 1.6em;
 	border-bottom: 1px solid #fff; !important	
 	border: 0px; !important
 }
@@ -45,7 +45,7 @@
 	text-align: center;
 	text-decoration: underline;
 	font-weight: bold;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	border-bottom: 0px solid #fff;	
 }
 
