@@ -4,16 +4,16 @@
 /* This will align images to the left */
 
 #printfriendly img{
-	float:left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 12px;
-	margin-right: 12px;
 }
 
 /* Changes font family and size */
 
 #printfriendly {
 	font-family: Georgia, Times New Roman, 'droid serif', serif;
-	font-size: 14px;
 	color: darkgreen;
 }
 
@@ -24,17 +24,19 @@
 }
 
  #printfriendly h2 { 
-	color: orange;
+	color: red;
 }
 
 #printfriendly h3 { 
-	color: yellow;
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	color: black;
 }
 
 #printfriendly h4 {
-	color: green;
+	font-family: Georgia, Times New Roman, 'droid serif', serif;
+	color: red;
 }
 
 .printfriendly {
-	color: green;
+	color: black;
 }
