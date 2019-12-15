@@ -61,9 +61,6 @@ hr {
 
 #printfriendly #pf-src { display:none; }
 
-@media print  {
-	body { -webkit-print-color-adjust: exact;}
-	 }
 
 	 #pf-body .pf-caption,
 #pf-body .wp-caption {
@@ -91,3 +88,11 @@ tr {
 #pf-author, .pf-author {
 	display: none;
 }
+
+table tr {
+	border-bottom: 1px solid #fff;
+}
+
+@media print  {
+	body { -webkit-print-color-adjust: exact;}
+	 }
