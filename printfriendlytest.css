@@ -60,27 +60,36 @@
 	border-bottom: 0px solid #fff;	
 }
 
-hr {
+#printfriendly hr {
 	border-style: none;
 	border: 0px;
 }
 
+
 #printfriendly #pf-src { display:none; }
 
 
-	 #pf-body .pf-caption,
+#pf-body .pf-caption,
 #pf-body .wp-caption {
     float:none ;
     border:0px ;
     text-align:center;
   }
 
-  #printfriendly #pf-body #pf-title tr {
+#pf-body {
+	border: 0px;
+}
+
+#printfriendly #pf-body #pf-title tr {
 	border-bottom: 1px solid #fff;
 	}
 
 #printfriendly #pf-title tr {
 	border-bottom: 1px solid #fff;
+}
+
+#printfriendly #pf-title {
+	border: 0px;
 }
 
 tr {
@@ -93,13 +102,14 @@ tr {
 
 #pf-author, .pf-author {
 	display: none;
+	border: 0px;
 }
 
-table tr {
+#printfriendly table tr {
 	border-bottom: 1px solid #fff;
 }
 
-table {
+#printfriendly table {
 	border: 0px; !important
 }
 
