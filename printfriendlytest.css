@@ -71,3 +71,7 @@ hr {
     border:0px ;
     text-align:center;
   }
+
+  #printfriendly #pf-body tr {
+	border-bottom: 0px solid #ddd;
+	}
