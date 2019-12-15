@@ -31,6 +31,7 @@
 	text-align: center;
 	font-weight: bold;
 	border-bottom: 1px solid #fff; !important	
+	border: 0px; !important
 }
 
  #printfriendly h2 { 
