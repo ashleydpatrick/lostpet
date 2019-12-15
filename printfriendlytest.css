@@ -32,7 +32,7 @@
 }
 
  #printfriendly h2 { 
-	color: red;
+	color: yellow;
 	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
@@ -72,6 +72,10 @@ hr {
     text-align:center;
   }
 
-  #printfriendly #pf-body tr {
-	border-bottom: 0px solid #ddd;
+  #printfriendly #pf-body #pf-title tr {
+	border-bottom: 1px solid #ddd;
 	}
+
+#printfriendly #pf-title tr {
+	border-bottom: 1px solid #ddd;
+}
